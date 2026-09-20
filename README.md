@@ -1,2 +1,2 @@
-# encontre-sua-fotografia
-Landing page do workshop 'Encontre a Sua Fotografia' com Kiko Ferrite em Ubatuba
+# encontre-seu-olhar
+Landing page do workshop 'Encontre seu olhar' com Kiko Ferrite em Ubatuba
